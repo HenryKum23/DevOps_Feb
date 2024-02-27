@@ -1,0 +1,8 @@
+
+Git is Awesome!. 
+
+So i git clone with, git clone <url> then i cd into it on my local machine ubuntu then i creat a file called gitmeDPTr.txt, vi and insect this message in.
+
+
+
+
